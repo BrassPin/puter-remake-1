@@ -1,3 +1,10 @@
+Puter Remake aims to clone the barebone infrastructure of puter to improve its accessability and usefulness.
+
+# To Do
+- [x] Start
+- [ ] Remake Puter
+- [ ] Wrap Up (End)
+
 <h3 align="center"><img width="80" alt="Puter.com, The Personal Cloud Computer: All your files, apps, and games in one place accessible from anywhere at any time." src="https://assets.puter.site/puter-logo.png"></h3>
 
 <h3 align="center">The Internet OS! Free, Open-Source, and Self-Hostable.</h3>
